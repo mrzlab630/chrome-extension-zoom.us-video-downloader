@@ -25,7 +25,7 @@
 3. Done
 
 
-![preview](https://github.com/mrzlab630/SketchP5-for-react/blob/master/docs/imgs/use-1.png?raw=true)
+![preview](https://github.com/mrzlab630/chrome-extension-zoom.us-video-downloader/blob/master/docs/imgs/use-1.png | width=480))
 
 
 
