@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name":"Zoom.us video downloader",
+  "version": "1.0",
+  "author": "mrZ <mrz@mrzlab630.pw>",
+  "description":  "add download link to zoom video",
+  "content_scripts": [
+    {
+      "matches": ["https://*.zoom.us/*"],
+      "js": ["./action.js"],
+      "css": [ "assets/style.css" ]
+    }
+  ],
+  "web_accessible_resources": [
+    "assets/icons/*",
+    "assets/style.css"
+  ]
+}
